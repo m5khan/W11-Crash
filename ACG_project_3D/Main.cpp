@@ -197,24 +197,24 @@ void myinit()
 {
 glClearColor (0.0, 0.0, 0.0, 0.0);
 glShadeModel(GL_FLAT);
-texture[0] = LoadTexture("school.bmp");
-texture[1] = LoadTexture("brick.bmp");
-texture[2] = LoadTexture("kfc.bmp");
-texture[3] = LoadTexture("bundukhan.bmp");
-texture[4] = LoadTexture("road.bmp");
-texture[5] = LoadTexture("nandos.bmp");
-texture[6] = LoadTexture("royal.bmp");
-texture[7] = LoadTexture("pizzaexperts.bmp");
-texture[8] = LoadTexture("building.bmp");
-texture[9] = LoadTexture("grass.bmp");
-texture[10] = LoadTexture("building1.bmp");
-texture[11] = LoadTexture("building2.bmp");
-texture[12] = LoadTexture("building3.bmp");
-texture[13] = LoadTexture("building4.bmp");
-texture[14] = LoadTexture("bustexture1.bmp");
-texture[15] = LoadTexture("busfront.bmp");
-texture[16] = LoadTexture("busback.bmp");
-texture[17] = LoadTexture("sky.bmp");
+texture[0] = LoadTexture("textures/school.bmp");
+texture[1] = LoadTexture("textures/brick.bmp");
+texture[2] = LoadTexture("textures/kfc.bmp");
+texture[3] = LoadTexture("textures/bundukhan.bmp");
+texture[4] = LoadTexture("textures/road.bmp");
+texture[5] = LoadTexture("textures/nandos.bmp");
+texture[6] = LoadTexture("textures/royal.bmp");
+texture[7] = LoadTexture("textures/pizzaexperts.bmp");
+texture[8] = LoadTexture("textures/building.bmp");
+texture[9] = LoadTexture("textures/grass.bmp");
+texture[10] = LoadTexture("textures/building1.bmp");
+texture[11] = LoadTexture("textures/building2.bmp");
+texture[12] = LoadTexture("textures/building3.bmp");
+texture[13] = LoadTexture("textures/building4.bmp");
+texture[14] = LoadTexture("textures/bustexture1.bmp");
+texture[15] = LoadTexture("textures/busfront.bmp");
+texture[16] = LoadTexture("textures/busback.bmp");
+texture[17] = LoadTexture("textures/sky.bmp");
 
 //glEnable(GL_TEXTURE_2D);
 
